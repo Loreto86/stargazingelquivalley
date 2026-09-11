@@ -1,0 +1,9 @@
+{
+  "name": "collasuyo-booking-functions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify Functions para reservas automatizadas de Collasuyo Astronómico",
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  }
+}
